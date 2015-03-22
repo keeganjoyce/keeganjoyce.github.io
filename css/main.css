@@ -112,7 +112,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #page-education {
     padding: 75px 0;
-    background: #fff;
+    background: #f7f7f7;
 }
 #page-experience {
     padding: 75px 0;
@@ -124,7 +124,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #page-contact {
     padding: 75px 0;
-    background:#fff;
+    background:#f7f7f7;
 }
 #page-contact .contact-info p {
     font-size: 1.2em;
