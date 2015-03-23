@@ -114,6 +114,9 @@ h1, h2, h3, h4, h5, h6 {
     padding: 75px 0;
     background: #3498db;
 }
+#page-education . spacer{
+    background: #fff;
+}
 #page-experience {
     padding: 75px 0;
     background: #fff;
