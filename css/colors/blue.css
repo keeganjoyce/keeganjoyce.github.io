@@ -14,16 +14,12 @@ background: #3498db;
 }
 
 #page-contact{
-	background: #3498db;
+	background: #f7f7f7;
 	color:#757575;
 }
 
 #page-contact .spacer{
-	background: #fff;
-}
-
-#page-contact a, #page-contact a;hover, #page-contact a;active, #page-contact a;focus {
-	color: #fff;
+	background: #3498db;
 }
 
 #page-contact .section-title{
