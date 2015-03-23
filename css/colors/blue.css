@@ -1,11 +1,11 @@
 /* Blue - #3498db */
 
 
-a:link,a:visited,.navbar-default .navbar-nav>li>a:hover, 
-.navbar-default .navbar-nav>li>a:focus,a:hover,a:active,.navbar-default .navbar-nav>.active>a, 
-.navbar-default .navbar-nav>.active>a:hover, 
+a:link,a:visited,.navbar-default .navbar-nav>li>a:hover,
+.navbar-default .navbar-nav>li>a:focus,a:hover,a:active,.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus{
-	color:#3498db;
+  color:#3498db;
 }
 
 .spacer,.nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus,#grid .mix .overlay {
@@ -14,21 +14,19 @@ background: #3498db;
 }
 
 #page-contact{
-	background: #f7f7f7;
-	color:#757575;
+  background: #3498db;
+  color:#fff;
 }
 
 #page-contact .spacer{
-	background: #3498db;
+  background: #fff;
 }
 
 #page-contact .section-title{
-	color:#757575;
+  color:#fff;
 }
 
 .btn.btn-default:hover,
 .btn.btn-default:active{
     color:#3498db;
 }
-
-
