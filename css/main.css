@@ -59,7 +59,7 @@ h1, h2, h3, h4, h5, h6 {
     background: none;
 }
 /* ==========================================================================
-  Layout 
+  Layout
    ========================================================================== */
 
 #page-welcome {
@@ -130,7 +130,7 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 1.2em;
 }
 /* ==========================================================================
-   Portfolio   
+   Portfolio
    ========================================================================== */
 
 #grid-controls-wrapper {
@@ -148,6 +148,7 @@ h1, h2, h3, h4, h5, h6 {
     margin: 20px 20px 20px 0;
     color: #fff;
     text-align: center;
+    position: relative;
 }
 #grid .mix .thumbnail {
     border: 2px thin #F7F7F7;
@@ -160,7 +161,7 @@ h1, h2, h3, h4, h5, h6 {
     position: absolute;
     opacity: 0;
 }
-#grid .mix .overlay:hover {
+#grid .mix:hover .overlay {
     opacity: .8;
 }
 #grid .mix .overlay i {
@@ -178,7 +179,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .isotope, .isotope .isotope-item {
     /* change duration value to whatever you like */
-    
+
     -webkit-transition-duration: 0.8s;
     -moz-transition-duration: 0.8s;
     -ms-transition-duration: 0.8s;
@@ -234,7 +235,7 @@ h1, h2, h3, h4, h5, h6 {
     image-rendering: optimizeQuality;
     max-width: none !important;
     /* counteracts global img modification by twitter bootstrap library */
-    
+
     z-index: -2;
 }
 .vegas-overlay, .vegas-background {
@@ -385,7 +386,7 @@ label.valid {
   padding: 4px 18px;
 }
 /* ==========================================================================
-   Charts   
+   Charts
    ========================================================================== */
 
 .chart {
