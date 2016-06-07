@@ -487,7 +487,10 @@ label.valid {
     color: #35465d
 }
 .btn-soundcloud:hover {
-    color: #ff3a00
+    color: #ff7700
+}
+.btn-youtube:hover {
+    color: #cd201f
 }
 /* ==========================================================================
    Helper classes
