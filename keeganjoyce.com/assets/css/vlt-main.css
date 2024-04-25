@@ -928,25 +928,27 @@
 ::-moz-selection
 {
     color: #fff;
-    background-color: #b79a82;
+    background-color: #f67c31;
 }
 ::selection
 {
     color: #fff;
-    background-color: #b79a82;
+    background-color: #f67c31;
 }
 
 ::-moz-selection
 {
     color: #fff;
-    background-color: #b79a82;
+    background-color: #f67c31;
 }
 
 /* BODY
 -------------------------------------------- */
 body
 {
-    font-family: Gilroy;
+    font-family: lunatix, sans-serif;
+    font-style: bold;
+    font-weight: 700;
     font-size: 1rem;
     line-height: 1.8;
 
@@ -1004,7 +1006,7 @@ a
             transition: all 300ms; 
     text-decoration: none;
 
-    color: inherit;
+    color: #f67c31;
 }
 a:hover,
 a:focus,
@@ -1016,7 +1018,7 @@ a:active
 }
 a:hover
 {
-    color: #b79a82;
+    color: #f67c31;
 }
 
 /* HEADINGS
